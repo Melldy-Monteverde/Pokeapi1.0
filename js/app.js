@@ -1,0 +1,1 @@
+const BASE_URI = 'https://pokeapi.co/api/v2/pokemon'
